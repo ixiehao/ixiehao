@@ -1,4 +1,4 @@
-# iXiehao
+# ixiehao
 
 > Independent developer building fast, private macOS apps and open-source tools.
 
@@ -6,11 +6,11 @@ I make focused software that stays native, runs locally, and respects the people
 
 ## Featured work
 
-- [ShotMap](https://github.com/ixiehao/ShotMap) — A macOS video storyboard and contact-sheet app with smart frame selection and private local export.
 - [LumaView](https://github.com/ixiehao/LumaView) — A fast, minimal native image viewer for macOS.
+- [ShotMap](https://github.com/ixiehao/ShotMap) — A macOS video storyboard and contact-sheet app with smart frame selection and private local export.
 - [MP4Flow](https://github.com/ixiehao/MP4Flow) — A native macOS video-to-MP4 converter: free, local, and private.
-- [vehicle-name](https://github.com/ixiehao/vehicle-name) — A multilingual automotive-name database for people and AI.
-- [motorcycle-name](https://github.com/ixiehao/motorcycle-name) — A curated multilingual motorcycle-name database and terminology reference.
+- [VehicleName](https://github.com/ixiehao/vehicle-name) — A multilingual automotive-name database for people and AI.
+- [MotorcycleMame](https://github.com/ixiehao/motorcycle-name) — A curated multilingual motorcycle-name database and terminology reference.
 
 ## Principles
 
