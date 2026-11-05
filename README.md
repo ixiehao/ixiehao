@@ -1,24 +1,26 @@
-# ixiehao
+# Hi, I'm iXiehao
 
-> Independent developer building fast, private macOS apps and open-source tools.
+I'm an independent developer making focused macOS apps and open-source resources. I like native interfaces, useful tools, and keeping personal files on your own device.
 
-I make focused software that stays native, runs locally, and respects the people using it.
+[Explore my projects](https://ixiehao.github.io/) · [GitHub repositories](https://github.com/ixiehao?tab=repositories)
 
-## Featured work
+## macOS apps
 
-- [LumaView](https://github.com/ixiehao/LumaView) — A fast, minimal native image viewer for macOS.
-- [ShotMap](https://github.com/ixiehao/ShotMap) — A macOS video storyboard and contact-sheet app with smart frame selection and private local export.
-- [MP4Flow](https://github.com/ixiehao/MP4Flow) — A native macOS video-to-MP4 converter: free, local, and private.
-- [VehicleName](https://github.com/ixiehao/vehicle-name) — A multilingual automotive-name database for people and AI.
-- [MotorcycleMame](https://github.com/ixiehao/motorcycle-name) — A curated multilingual motorcycle-name database and terminology reference.
+Free, open-source tools for everyday work. The apps support Apple silicon and Intel; see each project for installation and system requirements.
 
-## Principles
+- **[LumaView](https://github.com/ixiehao/LumaView)** — A minimal image viewer for browsing folders, inspecting EXIF data, and reading PDFs. [Website](https://ixiehao.github.io/LumaView/)
+- **[ShotMap](https://github.com/ixiehao/ShotMap)** — Turn a video into a storyboard image with smart frame selection and manual refinement. Processing and export stay on your Mac. [Website](https://ixiehao.github.io/ShotMap/)
+- **[MP4Flow](https://github.com/ixiehao/MP4Flow)** — Convert videos to MP4, trim, crop, rotate, and merge them locally. Requires FFmpeg and ffprobe installed separately. [Website](https://ixiehao.github.io/MP4Flow/)
 
-- **Native first** — software should feel at home on the platform it serves.
-- **Local by default** — personal files should stay on the user's device whenever possible.
-- **Useful over busy** — a small tool should do one important job well.
-- **Open by design** — good tools improve when their implementation is inspectable and shared.
+## Discover Mac apps
 
----
+- **[MacBetter](https://github.com/ixiehao/MacBetter)** — A curated directory of free and open-source macOS apps, with official links, licenses, and practical requirements. [Browse the directory](https://ixiehao.github.io/MacBetter/)
 
-`i` for independent. `o` for open source. `io` for making things flow.
+## Open data
+
+Multilingual reference datasets for people and machines, covering English, Simplified Chinese, Traditional Chinese, and Japanese.
+
+- **[VehicleName](https://github.com/ixiehao/VehicleName)** — Car brands, models, terminology, classifications, and regional aliases. [Search the data](https://ixiehao.github.io/VehicleName/)
+- **[MotorcycleName](https://github.com/ixiehao/MotorcycleName)** — Motorcycle brands, models, classes, terminology, and cross-market aliases. [Search the data](https://ixiehao.github.io/MotorcycleName/)
+
+Ideas, corrections, and contributions are welcome in each project's repository.
