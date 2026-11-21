@@ -1,28 +1,26 @@
 # Hi, I'm iXiehao
 
-I'm an independent developer making focused macOS apps and open-source resources. I like native interfaces, useful tools, and keeping personal files on your own device.
+I'm an independent developer building free, open-source Mac apps for working with images, video, and files locally.
 
-[Explore my projects](https://ixiehao.github.io/) · [GitHub repositories](https://github.com/ixiehao?tab=repositories)
+[Personal site](https://ixiehao.github.io/) · [All repositories](https://github.com/ixiehao?tab=repositories)
 
-## macOS apps
+## Images & video
 
-Free, open-source tools for everyday work. See each project for supported Mac models, system requirements, and installation instructions.
+- **[LumaView](https://github.com/ixiehao/LumaView)** — Browse image folders, inspect EXIF data, and read PDFs. [Download LumaView](https://github.com/ixiehao/LumaView/releases/latest)
+- **[Any2WebP](https://github.com/ixiehao/Any2WebP)** — Convert images to WebP or turn image sequences and video clips into WebP or GIF animations. [Download Any2WebP](https://ixiehao.github.io/Any2WebP/download/)
+- **[MP4Flow](https://github.com/ixiehao/MP4Flow)** — Convert videos to MP4, trim, crop, rotate, and merge clips. Requires FFmpeg and ffprobe. [Download MP4Flow](https://github.com/ixiehao/MP4Flow/releases/latest)
+- **[ShotMap](https://github.com/ixiehao/ShotMap)** — Find scenes at a glance by turning a video into a storyboard image. [Download ShotMap](https://github.com/ixiehao/ShotMap/releases/latest)
 
-- **[LumaView](https://github.com/ixiehao/LumaView)** — A minimal image viewer for browsing folders, inspecting EXIF data, and reading PDFs. [Website](https://ixiehao.github.io/LumaView/)
-- **[ShotMap](https://github.com/ixiehao/ShotMap)** — Turn a video into a storyboard image with smart frame selection and manual refinement. Processing and export stay on your Mac. [Website](https://ixiehao.github.io/ShotMap/)
-- **[MP4Flow](https://github.com/ixiehao/MP4Flow)** — Convert videos to MP4, trim, crop, rotate, and merge them locally. Requires FFmpeg and ffprobe installed separately. [Website](https://ixiehao.github.io/MP4Flow/)
-- **[Any2WebP](https://github.com/ixiehao/Any2WebP)** — Convert and optimize images and animations for WebP or GIF. Create animations from image sequences or video clips. [Website](https://ixiehao.github.io/Any2WebP/)
-- **[ezNTFS](https://github.com/ixiehao/ezNTFS)** — Read and write external NTFS drives on macOS with macFUSE and NTFS-3G. Includes verified copying and safe ejection. [Website](https://ixiehao.github.io/ezNTFS/)
+## More for the Mac
 
-## Discover Mac apps
-
-- **[MacBetter](https://github.com/ixiehao/MacBetter)** — A curated directory of free and open-source macOS apps, with official links, licenses, and practical requirements. [Browse the directory](https://ixiehao.github.io/MacBetter/)
+- **[ezNTFS](https://github.com/ixiehao/ezNTFS)** — Write to external NTFS drives on Mac with macFUSE, verify copies, and safely eject drives. [Install ezNTFS](https://ixiehao.github.io/ezNTFS/)
+- **[MacBetter](https://github.com/ixiehao/MacBetter)** — Find free, open-source Mac apps with official download links, licenses, and system requirements. [Browse MacBetter](https://ixiehao.github.io/MacBetter/)
 
 ## Open data
 
-Multilingual reference datasets for people and machines, covering English, Simplified Chinese, Traditional Chinese, and Japanese.
+Search brands, models, terminology, and regional names in English, Simplified Chinese, Traditional Chinese, and Japanese.
 
-- **[VehicleName](https://github.com/ixiehao/VehicleName)** — Car brands, models, terminology, classifications, and regional aliases. [Search the data](https://ixiehao.github.io/VehicleName/)
-- **[MotorcycleName](https://github.com/ixiehao/MotorcycleName)** — Motorcycle brands, models, classes, terminology, and cross-market aliases. [Search the data](https://ixiehao.github.io/MotorcycleName/)
+- **[VehicleName](https://github.com/ixiehao/VehicleName)** — [Search car names](https://ixiehao.github.io/VehicleName/)
+- **[MotorcycleName](https://github.com/ixiehao/MotorcycleName)** — [Search motorcycle names](https://ixiehao.github.io/MotorcycleName/)
 
 Ideas, corrections, and contributions are welcome in each project's repository.
