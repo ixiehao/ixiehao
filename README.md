@@ -6,11 +6,13 @@ I'm an independent developer making focused macOS apps and open-source resources
 
 ## macOS apps
 
-Free, open-source tools for everyday work. The apps support Apple silicon and Intel; see each project for installation and system requirements.
+Free, open-source tools for everyday work. See each project for supported Mac models, system requirements, and installation instructions.
 
 - **[LumaView](https://github.com/ixiehao/LumaView)** — A minimal image viewer for browsing folders, inspecting EXIF data, and reading PDFs. [Website](https://ixiehao.github.io/LumaView/)
 - **[ShotMap](https://github.com/ixiehao/ShotMap)** — Turn a video into a storyboard image with smart frame selection and manual refinement. Processing and export stay on your Mac. [Website](https://ixiehao.github.io/ShotMap/)
 - **[MP4Flow](https://github.com/ixiehao/MP4Flow)** — Convert videos to MP4, trim, crop, rotate, and merge them locally. Requires FFmpeg and ffprobe installed separately. [Website](https://ixiehao.github.io/MP4Flow/)
+- **[Any2WebP](https://github.com/ixiehao/Any2WebP)** — Convert and optimize images and animations for WebP or GIF. Create animations from image sequences or video clips. [Website](https://ixiehao.github.io/Any2WebP/)
+- **[ezNTFS](https://github.com/ixiehao/ezNTFS)** — Read and write external NTFS drives on macOS with macFUSE and NTFS-3G. Includes verified copying and safe ejection. [Website](https://ixiehao.github.io/ezNTFS/)
 
 ## Discover Mac apps
 
